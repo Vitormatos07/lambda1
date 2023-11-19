@@ -1,0 +1,14 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção17-Expressões lambda, delegates, LINQ\lambda1\lambda1\bin\Debug\net7.0\lambda1.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção17-Expressões lambda, delegates, LINQ\lambda1\lambda1\bin\Debug\net7.0\lambda1.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção17-Expressões lambda, delegates, LINQ\lambda1\lambda1\bin\Debug\net7.0\lambda1.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção17-Expressões lambda, delegates, LINQ\lambda1\lambda1\bin\Debug\net7.0\lambda1.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção17-Expressões lambda, delegates, LINQ\lambda1\lambda1\bin\Debug\net7.0\lambda1.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção17-Expressões lambda, delegates, LINQ\lambda1\lambda1\obj\Debug\net7.0\lambda1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção17-Expressões lambda, delegates, LINQ\lambda1\lambda1\obj\Debug\net7.0\lambda1.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção17-Expressões lambda, delegates, LINQ\lambda1\lambda1\obj\Debug\net7.0\lambda1.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção17-Expressões lambda, delegates, LINQ\lambda1\lambda1\obj\Debug\net7.0\lambda1.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção17-Expressões lambda, delegates, LINQ\lambda1\lambda1\obj\Debug\net7.0\lambda1.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção17-Expressões lambda, delegates, LINQ\lambda1\lambda1\obj\Debug\net7.0\refint\lambda1.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção17-Expressões lambda, delegates, LINQ\lambda1\lambda1\obj\Debug\net7.0\lambda1.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção17-Expressões lambda, delegates, LINQ\lambda1\lambda1\obj\Debug\net7.0\lambda1.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção17-Expressões lambda, delegates, LINQ\lambda1\lambda1\obj\Debug\net7.0\ref\lambda1.dll
